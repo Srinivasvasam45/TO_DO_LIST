@@ -4,7 +4,7 @@ A simple and interactive To-Do List application built using **HTML, CSS, and Jav
 
 ## 🚀 Live Demo
 
-🔗 Add your deployed project link here
+🔗 https://github.com/Srinivasvasam45/TO_DO_LIST.git
 
 ## 📌 Features
 
